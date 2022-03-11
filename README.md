@@ -1,6 +1,13 @@
-### Hi there 👋
+### New to coding, excited to learn more.
+
+Things I love (not in order)
+- Dragon Ball
+- Eating
+- Coding
 
 ![github-user-contribution](https://user-images.githubusercontent.com/87255552/157782832-b6991618-236a-4a05-926c-3706b48a997b.svg)
+
+![goku-super-saiyan](https://user-images.githubusercontent.com/87255552/157785259-13b805f4-cb4f-4ecd-af9d-a7166b7fea73.gif)
 
 
 <!--
