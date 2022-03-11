@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![snake svg](https://github.com/ismailpalalii/ismailpalalii/blob/output/github-contribution-grid-snake.svg)
+![github-user-contribution](https://user-images.githubusercontent.com/87255552/157782832-b6991618-236a-4a05-926c-3706b48a997b.svg)
+
 
 <!--
 **ms-laki/ms-laki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
