@@ -1,4 +1,5 @@
 ### Hi, I'm new to coding, excited to learn more.
+### Student @ 42 Adelaide
 
 
 ![github-user-contribution](https://user-images.githubusercontent.com/87255552/157782832-b6991618-236a-4a05-926c-3706b48a997b.svg)
